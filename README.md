@@ -1,4 +1,4 @@
-# Qlearning Voter Model
+# Applied Economic Analysis
 # Overconfidence of Q-Learning Agents in Noisy Signals in a Voting Environment
 
 This repository contains the replication code and simulations for the Applied Economic Analysis project (ECO131237). It extends the theoretical framework of **Kartal and Tyran (2022)** to reinforcement learning agents.
